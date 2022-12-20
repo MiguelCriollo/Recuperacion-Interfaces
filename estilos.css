@@ -1,11 +1,10 @@
-html, body {
+html{
     min-height: 100%;
 }
 h3{
     text-align: center;
 }
 .container1 {
-    width: 100%;
     display: flex;
     align-items: center;
     flex-flow: column;
@@ -17,6 +16,7 @@ h3{
 
 }
 .BanderaFrancia{
+    
     display: flex;
     flex-flow: row;
 
@@ -35,6 +35,26 @@ h3{
     width: 100px;
     height: 200px;
     background: rgb(255, 0, 0);
+}
+.container2{
+    display: flex;
+    align-items: left;
+    flex-flow: column;
+}
+.container3{
+    text-align: center;
+}
+.Imagen{
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+    
+}
+.Texto1{
+    padding: 20px;
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
 }
 h1 {
     text-align: center;

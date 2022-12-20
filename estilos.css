@@ -70,7 +70,6 @@ h3{
     padding: 50px;
     flex-wrap: wrap;
     justify-content: space-between;
-    text-align: ;
 
 }
 .perdido1{
@@ -82,6 +81,67 @@ h3{
     width: 50px;
     height: 100px;
     background: rgba(38, 255, 0, 0.795);
+}
+.container6{
+    padding: 20px;
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
+}
+.container7{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+
+.BanderaArgentina{
+    display: flex;
+    flex-flow: column;
+    
+}
+.cuadrado11{
+    width: 100px;
+    height: 30px;
+    background: rgba(10, 177, 238, 0.795);
+    }
+.cuadrado21{
+    width: 100px;
+    height: 30px;
+    background: rgb(232, 222, 222);
+    text-align: center;
+}
+.cuadrado31{
+    width: 100px;
+    height: 30px;
+    background: rgb(10, 177, 238, 0.795);
+}
+
+
+
+.BanderaFrancia2{
+    display: flex;
+    flex-flow: row;
+}
+.cuadrado12{
+    width: 50px;
+    height: 90px;
+    background: rgba(16, 98, 128, 0.795);
+    }
+.cuadrado22{
+    display:flex;
+    width: 50px;
+    height: 90px;
+    background: rgb(232, 222, 222);
+    align-items: center;
+    justify-content: center;
+}
+.cuadrado32{
+    width: 50px;
+    height: 90px;
+    background: rgb(255, 0, 0);
 }
 h1 {
     text-align: center;

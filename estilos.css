@@ -1,0 +1,43 @@
+html, body {
+    min-height: 100%;
+}
+h3{
+    text-align: center;
+}
+.container1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+  }
+.nombrePais{
+    display: flex;
+    text-align: center;
+    padding: 100px;
+
+}
+.BanderaFrancia{
+    display: flex;
+    flex-flow: row;
+
+}
+.cuadrado1{
+    width: 100px;
+    height: 200px;
+    background: rgba(16, 98, 128, 0.795);
+    }
+.cuadrado2{
+    width: 100px;
+    height: 200px;
+    background: rgb(232, 222, 222);
+}
+.cuadrado3{
+    width: 100px;
+    height: 200px;
+    background: rgb(255, 0, 0);
+}
+h1 {
+    text-align: center;
+    color: rgb(4, 4, 4);
+    padding: 60px;
+}
